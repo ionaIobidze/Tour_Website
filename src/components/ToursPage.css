@@ -1,0 +1,24 @@
+.tours-page {
+    text-align: center;
+  }
+  
+  .admin-section {
+    margin: 20px 0;
+  }
+  
+  .visibility-toggle {
+    margin: 10px 0;
+  }
+  
+  .tours-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .search-bar,
+  .filter-bar,
+  .sort-menu {
+    margin: 20px 0;
+  }
+  

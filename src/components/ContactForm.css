@@ -1,0 +1,41 @@
+.contact-form {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-details {
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .contact-details h2 {
+    margin-bottom: 10px;
+  }
+  
+  .contact-details p {
+    margin: 5px 0;
+  }
+  
+  .contact-details a {
+    color: #0073b1; /* LinkedIn color */
+    text-decoration: none;
+  }
+  
+  .contact-details a:hover {
+    text-decoration: underline;
+  }
+  

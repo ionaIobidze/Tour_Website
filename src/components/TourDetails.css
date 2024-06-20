@@ -1,0 +1,18 @@
+.tour-details {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .tour-details img {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .tour-details h3 {
+    margin: 10px 0;
+  }
+  
